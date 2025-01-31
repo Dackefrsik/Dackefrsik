@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## ## 📊 My GitHub Stats
 Here are some of my GitHub stats and top used languages:
 ### 🔥 Stats
-<p align="center">
+<p align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Dackefrsik&show_icons=true&theme=onedark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dackefrsik&theme=onedark" />
 </p>
