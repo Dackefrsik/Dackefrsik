@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 ## ## 📊 My GitHub Stats
 Here are some of my GitHub stats and top used languages:
 ### 🔥 Stats
-<p>
-  [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dackefrsik&show_icons=true&theme=onedark)](https://github.com/Dackefrsik/github-readme-stats)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dackefrsik&theme=onedark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dackefrsik&show_icons=true&theme=onedark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dackefrsik&theme=onedark" />
 </p>
+
 ### 🌐 Top used languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dackefrsik&layout=compact&theme=onedark)](https://github.com/Dackefrsik/github-readme-stats)
 
