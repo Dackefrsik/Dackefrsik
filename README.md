@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 👨‍🎓 Currently learning 
 - I’m currently learning React.js ...
 
-## ## 📊 My GitHub Stats
+## 📊 My GitHub Stats
 Here are some of my GitHub stats and top used languages:
 ### 🔥 Stats
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dackefrsik&show_icons=true&theme=onedark)](https://github.com/Dackefrsik/github-readme-stats)
