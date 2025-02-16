@@ -47,6 +47,5 @@ Here are some of my GitHub stats and top used languages:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 👀 Viewers 
-![Profile views](https://komarev.com/ghpvc/?username=Dackefrsik&color=blue)
+___
+<p align="center"> Thanks for visiting my profile 😊 </p>
