@@ -16,12 +16,17 @@ Here are some ideas to get you started:
 -->
 ## 🧠 Current project and learning
 ### 👨‍💻 Current projects
-- I’m currently working on a tournamentWebbap using React.js ...
+<p align="">
+  <a href="https://github.com/Dackefrsik/Tournament-webbapp">
+    <img alt="Tournament-webbapp" src="https://github-readme-stats.vercel.app/api/pin/?username=Dackefrsik&repo=Tournament-webbapp&theme=tokyonight">
+  </a>
+
+
 #### 📝 To do
-- Clean up code and add comment ...
+- Clean up code and add comments ...
   
 ### 👨‍🎓 Currently learning 
-- I’m currently learning React.js ...
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📊 My GitHub Stats
 Here are some of my GitHub stats and top used languages:
