@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 Here are some of my GitHub stats and top used languages:
 ### 🔥 Stats
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dackefrsik&show_icons=true&theme=onedark)
+ <p>
+   <img alt="Profile details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dackefrsik&theme=onedark">
+ </p>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dackefrsik&theme=onedark)
 ### 🌐 Top used languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dackefrsik&layout=compact&theme=onedark)
