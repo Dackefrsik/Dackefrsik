@@ -28,7 +28,6 @@ Here are some of my GitHub stats and top used languages:
 ### 🔥 Stats
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dackefrsik&show_icons=true&theme=onedark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dackefrsik&theme=onedark)
-
 ### 🌐 Top used languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dackefrsik&layout=compact&theme=onedark)
 
