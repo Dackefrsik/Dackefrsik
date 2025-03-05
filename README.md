@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 
 #### 📝 To do
-- ...
+- Start to add content ...
+- Add som in and out animations ...
   
 ### 👨‍🎓 Currently learning 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
