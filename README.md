@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 🧠 Current project and learning
 ### 👨‍💻 Current projects
 <p align="">
-  <a href="https://github.com/Dackefrsik/Tournament-webbapp">
+  <a href="https://github.com/Dackefrsik/CV-webbapp">
     <img alt="CV-webbapp" src="https://github-readme-stats.vercel.app/api/pin/?username=Dackefrsik&repo=CV-webbapp&theme=onedark">
   </a>
 
