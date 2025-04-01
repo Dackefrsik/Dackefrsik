@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img alt="CV-webbapp" src="https://github-readme-stats.vercel.app/api/pin/?username=Dackefrsik&repo=CV-webbapp&theme=onedark"></img>
   </a>
 
-- 👨‍🎓 Currently learning ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 👨‍🎓 Currently learning <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dackefrsik?tab=repositories](https://github.com/Dackefrsik?tab=repositories)
 
