@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="">
   <a href="https://github.com/Dackefrsik/CV-webbapp">
-    <img alt="CV-webbapp" src="https://github-readme-stats.vercel.app/api/pin/?username=Dackefrsik&repo=CV-webbapp&theme=onedark"></img>
+    <img alt="PongGamew" src="https://github-readme-stats.vercel.app/api/pin/?username=Dackefrsik&repo=PongGame&theme=onedark"></img>
   </a>
 
 - 👨‍🎓 Currently learning <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
