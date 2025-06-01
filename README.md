@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dackefrsik" alt="dackefrsik" /></a> </p>
 
-- 🔭 I’m currently working on [CV-webapp](https://github.com/Dackefrsik/CV-webbapp)
+-<h2>Latest project</h2>
 
 <p align="">
   <a href="https://github.com/Dackefrsik/CV-webbapp">
