@@ -87,6 +87,10 @@ Here are some ideas to get you started:
   <a href="https://en.wikipedia.org/wiki/API" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=webhooks&logoColor=white" alt="API" />
   </a>
+  <a href="https://plantuml.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/PlantUML-0D597F?style=for-the-badge&logo=uml&logoColor=white" alt="PlantUML" />
+</a>
+
 </p>
 
 
