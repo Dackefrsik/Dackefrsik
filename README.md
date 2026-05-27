@@ -13,25 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">Hi, I'm Daniel</h1>
 <h3 align="center">Graduated fulstack developper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dackefrsik&label=Profile%20views&color=0e75b6&style=flat" alt="dackefrsik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dackefrsik" alt="dackefrsik" /></a> </p>
 
 - 👨‍🎓 Currently trying to expand my general knowledge in programming for my future carer 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dackefrsik?tab=repositories](https://github.com/Dackefrsik?tab=repositories)
 
-- 📫 How to reach me **danielfrisk21@gmail.com**
+___
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/_frisken_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_frisken_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3> My current techstack ⚙️ </h3>
 
 <p align="left">
 
@@ -114,15 +107,49 @@ Here are some ideas to get you started:
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
   </a>
-
 </p>
 
+___
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dackefrsik&show_icons=true&locale=en&layout=compact&theme=onedark)
+<h3> Github Streak Stats 🔥</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dackefrsik&show_icons=true&locale=en&theme=onedark)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dackefrsik&theme=onedark" alt="GitHub Streak" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dackefrsik&theme=onedark)
+___
+
+<h3> Github Stats 📈 </h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dackefrsik&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Most Used Languages"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=dackefrsik&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats"/>
+</div>
+
+___
+
+<h3> Github trophies 🏆 </h3>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dackefrsik" alt="Github Trophies" />
+  </a>
+</p>
+
+___
+
+<h3>Connect with me 📫 </h3>
+
+<a href="https://www.linkedin.com/in/daniel-frisk-2b1295251/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Frisk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://discord.gg/_frisken_" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-dackefrisk-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="mailto:danielfrisk21@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-danielfrisk21%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ___
 <p align="center"> Thanks for visiting my profile 😊 </p>
